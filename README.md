@@ -20,7 +20,7 @@
             <td><a href="https://sticky-note-app-kevser.herokuapp.com" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="" alt="html" height=130></td> 
         </tr>
-        <tr>
+        /*<tr>
             <td>Popular Tour Places</td>
             <td><a href="https://github.com/hasan-furkan/popular-tour-places" target="_blank">Repo details</a></td>
             <td><a href="https://hasan-furkan.github.io/popular-tour-places/" target="_blank">Click here to see the project</a></td>
@@ -43,6 +43,6 @@
             <td><a href="https://github.com/hasan-furkan/recipe-app" target="_blank">Repo details</a></td>
             <td><a href="https://recipe-app-hasan.herokuapp.com/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="./images/recipe-app.png" alt="html" height=130></td> 
-        </tr>
+        </tr>*/
 </tbody>
 </table>
